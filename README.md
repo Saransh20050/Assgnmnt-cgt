@@ -1,4 +1,4 @@
-# Assgnmnt-cgt
+# Assignment-cgt
 
 The task involves creating a dynamic and engaging program that takes a random graphic sequence as input and generates a corresponding graph using the Havel-Hakimi algorithm. 
 Once the graph is constructed, the program performs several fascinating operations on it:
